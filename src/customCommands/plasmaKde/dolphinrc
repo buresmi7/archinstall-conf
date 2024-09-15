@@ -1,0 +1,23 @@
+[ExtractDialog]
+1920x1080 screen: Height=560
+1920x1080 screen: Width=1252
+
+[General]
+OpenExternallyCalledFolderInNewTab=true
+RememberOpenedTabs=false
+RenameInline=false
+ShowFullPath=true
+ShowFullPathInTitlebar=true
+Version=202
+ViewPropsTimestamp=2024,4,26,8,15,16.557
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+
+[PreviewSettings]
+Plugins=

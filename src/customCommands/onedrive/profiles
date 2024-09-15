@@ -1,0 +1,5 @@
+[mbures@outlook.cz]
+config_file = /home/michal/.config/onedrive/accounts/mbures@outlook.cz/config
+auto_sync = True
+account_type = Personal
+free_space = 997.1GiB

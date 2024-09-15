@@ -1,0 +1,62 @@
+[Global plugin config]
+manageProfile=false
+
+[Nastavení SSH][EPB prod]
+hostname=prod.epb.dc.golibe.com
+identifier=EPB prod
+importedFromSshConfig=false
+port=22
+profileName=Neměnit
+sshkey=
+useSshConfig=false
+username=buresm
+
+[Nastavení SSH][EPB test]
+hostname=test.epb.dc.golibe.com
+identifier=EPB test
+importedFromSshConfig=false
+port=22
+profileName=Neměnit
+sshkey=
+useSshConfig=false
+username=buresm
+
+[Nastavení SSH][GOL in]
+hostname=gol.in.cee-systems.com
+identifier=GOL in
+importedFromSshConfig=false
+port=22
+profileName=Neměnit
+sshkey=
+useSshConfig=false
+username=buresm
+
+[Nastavení SSH][GOL logs]
+hostname=logs.dc.golibe.com
+identifier=GOL logs
+importedFromSshConfig=false
+port=22
+profileName=Neměnit
+sshkey=
+useSshConfig=false
+username=buresm
+
+[Nastavení SSH][GOL prod 1]
+hostname=prod01.gol.dc.golibe.com
+identifier=GOL prod 1
+importedFromSshConfig=false
+port=22
+profileName=Neměnit
+sshkey=
+useSshConfig=false
+username=buresm
+
+[Nastavení SSH][GOL prod 2]
+hostname=prod02.gol.dc.golibe.com
+identifier=GOL prod 2
+importedFromSshConfig=false
+port=22
+profileName=Neměnit
+sshkey=
+useSshConfig=false
+username=buresm
